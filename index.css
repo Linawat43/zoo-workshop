@@ -92,4 +92,10 @@ img.image {
     text-align: center;
 }
 
-
+.footer_section {
+    width: 100%;
+    float: left;
+    background-color: #252525;
+    height: auto;
+    padding: 95px 0px;
+}
